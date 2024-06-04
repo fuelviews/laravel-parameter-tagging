@@ -1,0 +1,19 @@
+{
+  "name": "fuelviews/laravel-middleware",
+  "description": "A Laravel package to handle gclid query parameter.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "thejmitchener",
+      "email": "joshua@fuelviews.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Fuelviews\\LaravelMiddleware\\": "src/"
+    }
+  }
+}
