@@ -1,22 +1,23 @@
 {
-  "name": "fuelviews/laravel-middleware",
-  "description": "Fuelviews laravel middleware package",
-  "homepage": "https://github.com/fuelviews/laravel-middleware",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "thejmitchener",
-      "email": "joshua@fuelviews.com"
-    }
-  ],
-  "require": {
-    "php": "^8.2"
-  },
-  "autoload": {
-    "psr-4": {
-      "Fuelviews\\LaravelMiddleware\\": "src/"
-    }
-  },
-  "minimum-stability": "stable",
-  "prefer-stable": true
+    "name": "fuelviews/laravel-middleware",
+    "description": "Fuelviews laravel middleware package",
+    "homepage": "https://github.com/fuelviews/laravel-middleware",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Mitchener",
+            "email": "support@fuelviews.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fuelviews\\LaravelMiddleware\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
