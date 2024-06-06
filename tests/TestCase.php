@@ -1,6 +1,6 @@
 <?php
 
-namespace Fuelviews\LaravelParameterTagging\Tests;
+namespace Fuelviews\ParameterTagging\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 

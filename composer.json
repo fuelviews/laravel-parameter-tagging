@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Fuelviews\\LaravelParameterTagging\\": "src/"
+            "Fuelviews\\ParameterTagging\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Fuelviews\\LaravelParameterTagging\\Tests\\": "tests/",
+            "Fuelviews\\ParameterTagging\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
     },

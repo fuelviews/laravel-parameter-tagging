@@ -1,6 +1,6 @@
 # Laravel Parameter Tagging Package
 
-This package provides middleware for handling Google Ads `gclid` and UTM query parameters in Laravel applications. The middleware sets these parameters as cookies and stores them in the session.
+This package provides middleware for handling Google Ads `gclid` and UTM query parameters in laravel applications.
 
 ## Installation
 
@@ -26,8 +26,8 @@ Register middleware in your app/Http/Kernel.php file.
     // Query params tracking...
     protected $middlewareGroups = [
         'web' => [
-            \Fuelviews\LaravelParameterTagging\Middleware\HandleGclid::class,
-            \Fuelviews\LaravelParameterTagging\Middleware\HandleUtm::class,
+            \Fuelviews\ParameterTagging\Http\Middleware\HandleGclid::class,
+            \Fuelviews\ParameterTagging\Http\Middleware\HandleUtm::class,
         ],
     ];
 ```
