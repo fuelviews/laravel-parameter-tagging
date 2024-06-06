@@ -1,6 +1,12 @@
 # Laravel Parameter Tagging Package
 
-This package provides middleware for handling Google Ads `gclid` and UTM query parameters in laravel applications.
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/fuelviews/laravel-parameter-tagging.svg?style=flat-square)](https://packagist.org/packages/fuelviews/laravel-parameter-tagging)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/fuelviews/laravel-robots-txt/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/fuelviews/laravel-parameter-tagging/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/fuelviews/laravel-parameter-tagging/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/fuelviews/laravel-parameter-tagging/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/fuelviews/laravel-parameter-tagging.svg?style=flat-square)](https://packagist.org/packages/fuelviews/laravel-parameter-tagging)
+
+
+This package provides middleware for handling `gclid` and `utm` query parameters in laravel applications.
 
 ## Installation
 
