@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.4 - 2024-06-06
+
+### What's Changed
+
+* Fix namespace bug by @thejmitchener in https://github.com/fuelviews/laravel-parameter-tagging/pull/6
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.3...v0.0.4
+
 ## v0.0.3 - 2024-06-06
 
 ### What's Changed
