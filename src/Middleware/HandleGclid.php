@@ -1,6 +1,6 @@
 <?php
 
-namespace Fuelviews\LaravelMiddleware\Middleware;
+namespace Fuelviews\LaravelParameterTagging\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;

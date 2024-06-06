@@ -1,7 +1,7 @@
 {
-    "name": "fuelviews/laravel-middleware",
+    "name": "fuelviews/laravel-parameter-tagging",
     "description": "Laravel parameter tagging package",
-    "homepage": "https://github.com/fuelviews/laravel-middleware",
+    "homepage": "https://github.com/fuelviews/laravel-parameter-tagging",
     "license": "MIT",
     "authors": [
         {
@@ -23,18 +23,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Fuelviews\\LaravelMiddleware\\": "src/"
+            "Fuelviews\\LaravelParameterTagging\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Fuelviews\\LaravelMiddleware\\Tests\\": "tests/",
+            "Fuelviews\\LaravelParameterTagging\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
     },
     "scripts": {
         "post-autoload-dump": "@composer run prepare",
-        "clear": "@php vendor/bin/testbench package:purge-laravel-MIDDLEWARE --ansi",
+        "clear": "@php vendor/bin/testbench package:purge-laravel-parameter-tagging --ansi",
         "prepare": "@php vendor/bin/testbench package:discover --ansi",
         "build": [
             "@composer run prepare",

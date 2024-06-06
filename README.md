@@ -9,7 +9,7 @@ This package provides middleware for handling Google Ads `gclid` and UTM query p
 You can install the package via Composer:
 
 ```bash
-composer require fuelviews/laravel-middleware
+composer require fuelviews/laravel-parameter-tagging
 ```
 
 #### Step 2: Register Middleware
@@ -26,8 +26,8 @@ Register middleware in your app/Http/Kernel.php file.
     // Query params tracking...
     protected $middlewareGroups = [
         'web' => [
-            \Fuelviews\LaravelMiddleware\Middleware\HandleGclid::class,
-            \Fuelviews\LaravelMiddleware\Middleware\HandleUtm::class,
+            \Fuelviews\LaravelParameterTagging\Middleware\HandleGclid::class,
+            \Fuelviews\LaravelParameterTagging\Middleware\HandleUtm::class,
         ],
     ];
 ```
