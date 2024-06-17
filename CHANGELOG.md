@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.5 - 2024-06-17
+
+### What's Changed
+
+* Added homepage URL to the composer.json file and updated the README.md file to include a code style badge. These changes were made to improve the project's documentation and code style. by @thejmitchener in https://github.com/fuelviews/laravel-parameter-tagging/pull/8
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.4...v0.0.5
+
 ## v0.0.4 - 2024-06-06
 
 ### What's Changed
