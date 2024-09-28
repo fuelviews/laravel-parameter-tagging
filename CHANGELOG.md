@@ -2,6 +2,16 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.7 - 2024-09-28
+
+### What's Changed
+
+* Bump anothrNick/github-tag-action from 1.69.0 to 1.71.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/26
+* Bump orchestra/testbench from 9.1.2 to 9.5.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/27
+* Bump laravel/pint from 1.16.0 to 1.18.1 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/28
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.5...v0.0.7
+
 ## v0.0.5 - 2024-06-17
 
 ### What's Changed
