@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.8 - 2024-10-27
+
+### What's Changed
+
+* Bump nunomaduro/collision from 8.4.0 to 8.5.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/32
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.7...v0.0.8
+
 ## v0.0.7 - 2024-09-28
 
 ### What's Changed
