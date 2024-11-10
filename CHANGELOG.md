@@ -2,6 +2,16 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.9 - 2024-11-10
+
+### What's Changed
+
+* Bump poseidon/wait-for-status-checks from 0.5.0 to 0.6.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/33
+* Bump poseidon/wait-for-status-checks from 0.5.0 to 0.6.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/34
+* Bump the composer group across 1 directory with 2 updates by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/35
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.7...v0.0.9
+
 ## v0.0.8 - 2024-10-27
 
 ### What's Changed
