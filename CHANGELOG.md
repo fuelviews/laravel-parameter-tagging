@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.10 - 2025-01-08
+
+### What's Changed
+
+* Bump poseidon/wait-for-status-checks from 0.5.0 to 0.6.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/33
+* Bump poseidon/wait-for-status-checks from 0.5.0 to 0.6.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/34
+* Bump laravel/framework from 11.26.0 to 11.31.0 in the composer group across 1 directory by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/36
+* Bump pestphp/pest from 2.34.7 to 2.36.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/37
+* Bump orchestra/testbench from 9.5.2 to 9.9.0 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/43
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.7...v0.0.10
+
 ## v0.0.9 - 2024-11-10
 
 ### What's Changed
