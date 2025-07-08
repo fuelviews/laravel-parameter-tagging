@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.18 - 2025-07-08
+
+### What's Changed
+
+* Bump stefanzweifel/git-auto-commit-action from 5 to 6 by @dependabot in https://github.com/fuelviews/laravel-parameter-tagging/pull/63
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.17...v0.0.18
+
 ## v0.0.17 - 2025-06-25
 
 ### What's Changed
