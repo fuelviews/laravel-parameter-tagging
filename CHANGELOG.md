@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.20 - 2025-08-01
+
+### What's Changed
+
+* Bump laravel/pint from 1.22.1 to 1.24.0 by @dependabot[bot] in https://github.com/fuelviews/laravel-parameter-tagging/pull/64
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.19...v0.0.20
+
 ## v0.0.19 - 2025-08-01
 
 ### What's Changed
