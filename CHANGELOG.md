@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.21 - 2025-08-01
+
+### What's Changed
+
+* Fix deps by @thejmitchener in https://github.com/fuelviews/laravel-parameter-tagging/pull/67
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.20...v0.0.21
+
 ## v0.0.20 - 2025-08-01
 
 ### What's Changed

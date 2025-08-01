@@ -1,7 +1,6 @@
 .idea
 .phpunit.cache
 build
-composer.lock
 coverage
 docs
 phpunit.xml
@@ -31,4 +30,6 @@ yarn-error.log
 php.ini
 error_log
 .DS_Store
-/.php-cs-fixer.cache
+/.DS_Store
+.php-cs-fixer.cache
+composer.lock
