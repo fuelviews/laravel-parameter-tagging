@@ -2,6 +2,15 @@
 
 All notable changes to `laravel-navigation` will be documented in this file.
 
+## v0.0.19 - 2025-08-01
+
+### What's Changed
+
+* Bump aglipanci/laravel-pint-action from 2.5 to 2.6 by @dependabot[bot] in https://github.com/fuelviews/laravel-parameter-tagging/pull/66
+* Bump spatie/laravel-package-tools from 1.19.0 to 1.92.7 by @dependabot[bot] in https://github.com/fuelviews/laravel-parameter-tagging/pull/65
+
+**Full Changelog**: https://github.com/fuelviews/laravel-parameter-tagging/compare/v0.0.18...v0.0.19
+
 ## v0.0.18 - 2025-07-08
 
 ### What's Changed
